@@ -1,4 +1,4 @@
-Official GNOME Shell theme for [Ozon OS](http://ozon-os.com).
+Red remix version of Official GNOME Shell theme for [Ozon OS](http://ozon-os.com).
 
 ### Installation
 
